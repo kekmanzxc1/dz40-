@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dz40++", "dz40++\dz40++.vcxproj", "{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Debug|x64.ActiveCfg = Debug|x64
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Debug|x64.Build.0 = Debug|x64
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Debug|x86.Build.0 = Debug|Win32
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Release|x64.ActiveCfg = Release|x64
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Release|x64.Build.0 = Release|x64
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Release|x86.ActiveCfg = Release|Win32
+		{5BEEE343-BA5B-441A-A9F8-C5A0603159EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD68F6B-CD9A-415A-A8D7-8A30BE1D98CE}
+	EndGlobalSection
+EndGlobal
